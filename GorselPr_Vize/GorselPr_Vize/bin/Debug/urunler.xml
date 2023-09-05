@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urunler>
+  <urun>
+    <ad>Türk Kahvesi</ad>
+    <fiyat>35</fiyat>
+  </urun>
+  <urun>
+    <ad>Milkshake</ad>
+    <fiyat>150</fiyat>
+  </urun>
+  <urun>
+    <ad>Chai Tea Latte</ad>
+    <fiyat>25</fiyat>
+  </urun>
+  <urun>
+    <ad>Sade Filtre Kahve</ad>
+    <fiyat>17</fiyat>
+  </urun>
+</urunler>
